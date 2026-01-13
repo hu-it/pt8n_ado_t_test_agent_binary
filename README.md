@@ -6,10 +6,6 @@ v0.0.1
 ### GIF Demo
 ![Demo GIF](ezgif-64a457632ccd8537.gif)
 
-### Video Demo
-<video src="0112.mp4" controls="controls" style="max-width: 730px;">
-</video>
-[Download Video](0112.mp4)
 
 ## Configuration
 
